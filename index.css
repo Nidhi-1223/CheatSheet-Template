@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0%;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 56px;
+    
+}
+
+.content{
+    /* font-family: 'Red Hat Mono', monospace; */
+    font-family: 'Zen Antique', serif;
+}
+
+.container{
+    /* background-color: blueviolet; */
+    width: 60vw;
+    margin: auto;
+    padding: 10px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.logo{
+
+}
+
+.logo img{
+    width: 32px;
+}
