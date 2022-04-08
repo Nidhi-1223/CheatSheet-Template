@@ -21,16 +21,20 @@ nav{
 
 .container{
     /* background-color: blueviolet; */
-    width: 60vw;
+    width: 70vw;
     margin: auto;
     padding: 0px;
     font-family: 'Roboto Slab', serif;
 }
 
 .logo{
-
+    width: 32px;
+    /* align-self: right; */
+    float: right;
+    
 }
 
 .logo img{
     width: 32px;
+    
 }
