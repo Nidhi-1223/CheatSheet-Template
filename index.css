@@ -13,7 +13,10 @@ nav{
     height: 56px;
     
 }
-
+body {
+    background-image: url("assests/joe-woods-4Zaq5xY5M_c-unsplash.jpg");
+    background-color: #cccccc;
+  }
 .content{
     /* font-family: 'Red Hat Mono', monospace; */
     font-family: 'Zen Antique', serif;
